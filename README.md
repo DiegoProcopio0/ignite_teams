@@ -14,7 +14,7 @@
 <h1 align="center" style="font-weight: bold;">APP REACT NATIVE 💻</h1>
 
 <p align="center">
-    <b>App para organizar times e pessoas.</b>
+    <b>Aplicativo para organizar eventos.</b>
 </p>
 
 <h2 id="tech">💻 Tecnologias</h2>
